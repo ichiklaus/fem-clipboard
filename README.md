@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot 2021-07-23 at 11-29-21 Frontend Mentor Clipboard landing page.png)
+![](./Screenshot-Frontend-Mentor-Clipboard-landing-page.png)
 
 
 ### Links
