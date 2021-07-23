@@ -1,0 +1,22 @@
+:root{
+    /*Colors*/
+    
+    /*Primary*/
+    
+    /*- Strong Cyan: */
+    --strong-cyan: hsl(171, 66%, 44%);
+    /*- Light Blue: */
+    --light-blue: hsl(233, 100%, 69%);
+
+    --strong-cyan-shadow: rgb(220,247,240);
+    --light-blue-shadow : rgb(243, 243, 243);
+    
+    /*Neutral*/
+    
+    /*- Dark Grayish Blue: */
+    --dark-grayish-blue: hsl(210, 10%, 33%);
+    /*- Grayish Blue: */
+    --grayish-blue: hsl(201, 11%, 66%);
+    /*Footer bg color*/
+    --footer-bg-color: rgb(245, 246, 248);
+}
