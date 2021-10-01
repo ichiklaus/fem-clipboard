@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/ichiklaus/fementor-clipboard
-- Live Site URL: https://ichiklaus.github.io/fementor-clipboard/
+- Solution URL: https://github.com/ichiklaus/fem-clipboard
+- Live Site URL: https://ichiklaus.github.io/fem-clipboard/
 
 ## My process
 
